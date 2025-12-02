@@ -1,8 +1,8 @@
 <div align="center">
   <h1>👋 Hello, I'm Gowtham Sundaram</h1>
   <p>
-    <img src="https://img.shields.io/badge/Frontend-Developer-326CE5?style=for-the-badge&logo=html5&logoColor=white" alt="Frontend Developer"/>
-    <img src="https://img.shields.io/badge/Web Development-Enthusiast-326CE5?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Web Development Enthusiast"/>
+    <img src="https://img.shields.io/badge/Frontend-Developer-326CE5?style=for-the-badge&logo=html5&logoColor=white" alt="Frontend Developer"/>&nbsp;
+    <img src="https://img.shields.io/badge/Web Development-Enthusiast-326CE5?style=for-the-badge&logo=react&logoColor=white" alt="Web Development Enthusiast"/>
   </p>
   <p>
     Building clean, beautiful & responsive web interfaces using pure HTML, CSS, Javascript and modern UI concepts.
@@ -74,107 +74,58 @@ I learn by *building projects*, not by reading books — practical growth every 
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">🎬 Netflix Clone</h3>
-      <div align="center">
-        <a href="#" target="_blank">
-          <img src="/Gowtham-171/assets/Netflix.gif" width="350">
-        </a>
-        <p>
-          <strong>HTML • CSS</strong><br>
-          Homepage + Login page recreation with polished UI and responsive layout.
-        </p>
-      </div>
-    </td>
-    <td width="50%">
-      <h3 align="center">🔐 Login Page Clones</h3>
-      <div align="center">
-        <a href="#" target="_blank">
-          <img src="https://cdn.dribbble.com/userupload/14275105/file/original-1a610a28cca3f4cd459a9237e69afad7.png" width="350">
-        </a>
-        <p>
-          <strong>HTML • CSS</strong><br>
-          Facebook, Instagram, LinkedIn, Spotify & Netflix login UIs recreated beautifully.
-        </p>
-      </div>
-    </td>
-  </tr>
-
-  <tr>
-    <td width="50%">
-      <h3 align="center">🎨 UI Components</h3>
-      <div align="center">
-        <a href="#" target="_blank">
-          <img src="https://cdn.dribbble.com/users/230541/screenshots/14225280/media/bc65aaf6e465c2ac00bcff4fce14cd47.png" width="350">
-        </a>
-        <p><strong>Buttons, Inputs, Cards</strong> — A collection of clean reusable UI parts.</p>
-      </div>
-    </td>
-    <td width="50%">
-      <h3 align="center">📱 Mini Frontend Projects</h3>
-      <div align="center">
-        <img src="https://cdn.dribbble.com/users/627182/screenshots/18592770/media/ee05af04ddcfc459911fbac2a9f095fb.png" width="350">
-        <p>Small UI projects that improve alignment, spacing, interaction & layout understanding.</p>
-      </div>
-    </td>
-  </tr>
-
-</table>
-
-<table>
-  <tr>
-  <td width="50%">
       <h3 align="center">Book Publishing Website</h3>
       <div align="center">
-        <a href="https://github.com/Prakash2819/Netflix-DevSecOps" target="_blank">
-          <img src="https://github.com/Prakash2819/Netflix-DevSecOps/blob/main/public/assets/thumbnail.gif" width="350" alt="Project"/>
+        <a href="https://github.com/Gowtham-171/Book-Publishing-Website.git" target="_blank">
+          <img src="https://github.com/Gowtham-171/Gowtham-171/blob/main/assets/Book-publishing-website.gif" width="350" alt="Project"/>
         </a>
         <p>
-          <a href="https://github.com/Prakash2819/Netflix-DevSecOps" target="_blank">
+          <a href="https://github.com/Gowtham-171/Book-Publishing-Website.git target="_blank">
             <img src="https://img.shields.io/badge/Code-00ADD8?style=for-the-badge&logo=github&logoColor=white" alt="Repo"/>
           </a>
         </p>
-        <p><strong>Jenkins, Docker, Kubernetes, ArgoCD</strong> — Implemented a Netflix-inspired CI/CD pipeline integrating automated testing, security checks, and dynamic monitoring for reliable cloud delivery.</p>
+        <p><strong>HTML, CSS — Developed a modern and fully responsive book publishing site with clean layouts, interactive buttons, and optimized performance on every screen size.</p>
       </div>
     </td>
     <td width="50%">
-    <h3 align="center">Swiggy DevSecOps</h3>
+    <h3 align="center">Netflix Clone</h3>
       <div align="center">
-        <a href="https://github.com/Prakash2819/DevSecOps-Swiggy-Project.git" target="_blank">
-          <img src="https://github.com/Prakash2819/DevSecOps-Swiggy-Project/blob/main/Photos/thumbnail.gif" width="350" alt="Project"/>
+        <a href="https://github.com/Gowtham-171/Netflix-clone.git" target="_blank">
+          <img src="https://github.com/Gowtham-171/Gowtham-171/blob/main/assets/Netflix.gif" width="350" alt="Project"/>
         </a>
         <p>
-          <a href="https://github.com/Prakash2819/DevSecOps-Swiggy-Project.git" target="_blank">
+          <a href="https://github.com/Gowtham-171/Netflix-clone.git" target="_blank">
             <img src="https://img.shields.io/badge/Code-00ADD8?style=for-the-badge&logo=github&logoColor=white" alt="Repo"/>
           </a>
         </p>
-        <p><strong>Docker, Kubernetes, Jenkins, SonarQube, Trivy, Prometheus</strong> — A complete DevSecOps pipeline implementation for the Swiggy application, featuring automated CI/CD, security scanning, container orchestration, and monitoring.</p>
+        <p><strong>HTML, CSS, JavaScript — Built a responsive Netflix clone with pixel-perfect UI, interactive hover effects, and mobile-first layout to practice real-world front-end design and responsiveness</p>
       </div>
       
   </tr>
   <tr>
   <td width="50%">
-      <h3 align="center">Spotify Infrastructure Automation</h3>
+      <h3 align="center">Login Page Clones</h3>
       <div align="center">
-        <a href="https://github.com/Prakash2819/Terraform-Spotify" target="_blank">
-          <img src="https://github.com/Prakash2819/Terraform-Spotify/blob/main/providers/thumbnail.gif" width="350" alt="Project"/>
+        <a href="https://github.com/Gowtham-171/Login-page-clones.git" target="_blank">
+          <img src="https://github.com/Gowtham-171/Gowtham-171/blob/main/assets/Login-pages.gif" width="350" alt="Project"/>
         </a>
         <p>
-          <a href="https://github.com/Prakash2819/Terraform-Spotify" target="_blank">
+          <a href="https://github.com/Gowtham-171/Login-page-clones.git" target="_blank">
             <img src="https://img.shields.io/badge/Code-00ADD8?style=for-the-badge&logo=github&logoColor=white" alt="Repo"/>
           </a>
         </p>
-          <p><strong>Terraform, AWS</strong> — Automated Spotify infrastructure provisioning with modular, scalable IaC for cloud-native deployment.</p>
+          <p><strong>HTML, CSS, JavaScript — Built multiple responsive login page clones with clean UI layouts, smooth input interactions, and mobile-first design to strengthen real-world front-end development skills.</p>
       </div>
     </td>
     </td>
     <td width="50%">
       <h3 align="center">Explore More Projects</h3>
       <div align="center">
-        <p>Check out my repositories for more projects showcasing my skills in:</p>
+        <p>Check out my repositories for more projects <br> showcasing my skills in:</p>
         <p>
-          <img src="https://img.shields.io/badge/DevOps-Tools-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="DevOps Tools"/>
+          <img src="https://img.shields.io/badge/Web-Development-326CE5?style=flat-square&logo=html5&logoColor=white" alt="Web Development"/>
         </p>
-        <a href="https://github.com/prakash2819?tab=repositories" target="_blank">
+        <a href="https://github.com/Gowtham-171?tab=repositories" target="_blank">
           <img src="https://img.shields.io/badge/View%20All%20Repositories-212121?style=for-the-badge&logo=github&logoColor=white" alt="View All"/>
         </a>
       </div>
@@ -238,11 +189,11 @@ I learn by *building projects*, not by reading books — practical growth every 
 
 <div align="left">
 
-- 📧 Email: *add your email here*  
-- 💼 LinkedIn: *add your LinkedIn here*  
-- 🌐 Portfolio: *coming soon*  
+- 📧 Email: *gowtham.sg111@gmail.com*  
+- 💼 LinkedIn: **
 
 </div>
+
 
 ---
 
