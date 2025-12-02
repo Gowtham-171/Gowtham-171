@@ -77,7 +77,7 @@ I learn by *building projects*, not by reading books — practical growth every 
       <h3 align="center">🎬 Netflix Clone</h3>
       <div align="center">
         <a href="#" target="_blank">
-          <img src="https://cdn.dribbble.com/users/60166/screenshots/17498180/media/72ef7b93988a24a4f8b3179e1272086a.png" width="350">
+          <img src="/Gowtham-171/assets/Netflix.gif" width="350">
         </a>
         <p>
           <strong>HTML • CSS</strong><br>
