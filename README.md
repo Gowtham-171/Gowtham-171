@@ -80,7 +80,7 @@ I learn by *building projects*, not by reading books — practical growth every 
           <img src="https://github.com/Gowtham-171/Gowtham-171/blob/main/assets/Book-publishing-website.gif" width="350" alt="Project"/>
         </a>
         <p>
-          <a href="https://github.com/Gowtham-171/Book-Publishing-Website.git target="_blank">
+          <a href="https://github.com/Gowtham-171/Book-Publishing-Website.git" target="_blank">
             <img src="https://img.shields.io/badge/Code-00ADD8?style=for-the-badge&logo=github&logoColor=white" alt="Repo"/>
           </a>
         </p>
@@ -190,7 +190,7 @@ I learn by *building projects*, not by reading books — practical growth every 
 <div align="left">
 
 - 📧 Email: *gowtham.sg111@gmail.com*  
-- 💼 LinkedIn: **
+- 💼 LinkedIn: *www.linkedin.com/in/gowtham-sundaram17*
 
 </div>
 
