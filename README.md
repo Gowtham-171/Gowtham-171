@@ -77,10 +77,10 @@ I learn by *building projects*, not by reading books — practical growth every 
       <h3 align="center">Task Manager Dashboard</h3>
       <div align="center">
         <a href="https://github.com/Gowtham-171/Task-Manager-Task-" target="_blank">
-          <img src="https://github.com/Gowtham-171/Gowtham-171/blob/main/assets/Book-publishing-website.gif" width="350" alt="Project"/>
+          <img src="https://github.com/Gowtham-171/Gowtham-171/blob/main/assets/taskManagerGif.gif" width="350" alt="Project"/>
         </a>
         <p>
-          <a href="https://github.com/Gowtham-171/Book-Publishing-Website.git" target="_blank">
+          <a href="https://github.com/Gowtham-171/Task-Manager-Task-" target="_blank">
             <img src="https://img.shields.io/badge/Code-00ADD8?style=for-the-badge&logo=github&logoColor=white" alt="Repo"/>
           </a>
         </p>
@@ -92,10 +92,10 @@ It enables users to efficiently create, update, and delete tasks, helping them o
     <h3 align="center">Weather App</h3>
       <div align="center">
         <a href="https://github.com/Gowtham-171/Weather-web-application" target="_blank">
-          <img src="https://github.com/Gowtham-171/Gowtham-171/blob/main/assets/Netflix.gif" width="350" alt="Project"/>
+          <img src="https://github.com/Gowtham-171/Gowtham-171/blob/main/assets/weatherAppGif.gif" width="350" alt="Project"/>
         </a>
         <p>
-          <a href="https://github.com/Gowtham-171/Netflix-clone.git" target="_blank">
+          <a href="https://github.com/Gowtham-171/Weather-web-application" target="_blank">
             <img src="https://img.shields.io/badge/Code-00ADD8?style=for-the-badge&logo=github&logoColor=white" alt="Repo"/>
           </a>
         </p>
