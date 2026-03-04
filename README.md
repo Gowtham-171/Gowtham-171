@@ -77,7 +77,7 @@ I learn by *building projects*, not by reading books — practical growth every 
       <h3 align="center">Task Manager Dashboard</h3>
       <div align="center">
         <a href="https://github.com/Gowtham-171/Task-Manager-Task-" target="_blank">
-          <img src="https://github.com/Gowtham-171/Gowtham-171/blob/main/assets/taskManagerGif.gif" width="350" alt="Project"/>
+          <img src="https://github.com/Gowtham-171/Gowtham-171/blob/main/assets/taskManagerGif1.gif" width="350" alt="Project"/>
         </a>
         <p>
           <a href="https://github.com/Gowtham-171/Task-Manager-Task-" target="_blank">
