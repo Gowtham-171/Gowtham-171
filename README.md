@@ -74,6 +74,36 @@ I learn by *building projects*, not by reading books — practical growth every 
 <table>
   <tr>
     <td width="50%">
+      <h3 align="center">Task Manager Dashboard</h3>
+      <div align="center">
+        <a href="https://github.com/Gowtham-171/Task-Manager-Task-" target="_blank">
+          <img src="https://github.com/Gowtham-171/Gowtham-171/blob/main/assets/Book-publishing-website.gif" width="350" alt="Project"/>
+        </a>
+        <p>
+          <a href="https://github.com/Gowtham-171/Book-Publishing-Website.git" target="_blank">
+            <img src="https://img.shields.io/badge/Code-00ADD8?style=for-the-badge&logo=github&logoColor=white" alt="Repo"/>
+          </a>
+        </p>
+        <p><strong>HTML, CSS, Javascript — Developed a fully responsive Task Manager Dashboard with a clean and intuitive interface that works seamlessly across all screen sizes.
+It enables users to efficiently create, update, and delete tasks, helping them organize and manage their workflow effectively.</p>
+      </div>
+    </td>
+    <td width="50%">
+    <h3 align="center">Weather App</h3>
+      <div align="center">
+        <a href="https://github.com/Gowtham-171/Weather-web-application" target="_blank">
+          <img src="https://github.com/Gowtham-171/Gowtham-171/blob/main/assets/Netflix.gif" width="350" alt="Project"/>
+        </a>
+        <p>
+          <a href="https://github.com/Gowtham-171/Netflix-clone.git" target="_blank">
+            <img src="https://img.shields.io/badge/Code-00ADD8?style=for-the-badge&logo=github&logoColor=white" alt="Repo"/>
+          </a>
+        </p>
+        <p><strong>HTML, CSS, JavaScript — Developed a fully responsive Weather App with a clean interface that works smoothly across desktop, tablet, and mobile devices. It allows users to search for any city and view real-time weather details like temperature, humidity, wind speed, and conditions.</p>
+        </div>
+  </tr>
+  <tr>
+    <td width="50%">
       <h3 align="center">Book Publishing Website</h3>
       <div align="center">
         <a href="https://github.com/Gowtham-171/Book-Publishing-Website.git" target="_blank">
@@ -99,8 +129,7 @@ I learn by *building projects*, not by reading books — practical growth every 
           </a>
         </p>
         <p><strong>HTML, CSS, JavaScript — Built a responsive Netflix clone with pixel-perfect UI, interactive hover effects, and mobile-first layout to practice real-world front-end design and responsiveness</p>
-      </div>
-      
+        </div>
   </tr>
   <tr>
   <td width="50%">
